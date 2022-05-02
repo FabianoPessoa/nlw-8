@@ -1,0 +1,28 @@
+=================================================
+****************** bootcamp *********************
+-------------------------------------------------
+Aplicação
+	Front-End
+	Back-End
+	Moble
+Utilizando JS
+Ferramentas:
+	React
+	React Native
+	Plataforma Node
+Etapas:
+	html
+	BackEnd
+	Moble
+	Deploid
+
+para instalar o node.js
+link para instalar
+https://efficient-sloth-d85.notion.site/Instalando-o-Node-js-f00c900c9c584026ba153dbe67dd2c50#c38c3006ed4c42ebaf2b75eb385c205e
+
+$ sudo apt-get install nodejs
+$ sudo apt-get install npm
+
+link do curso
+https://www.rocketseat.com.br/?utm_source=nextlevelweek-site&utm_medium=logo&utm_campaign=nextlevelweek
+
